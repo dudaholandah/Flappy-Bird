@@ -1,4 +1,4 @@
-# Flappy Bird 2
+# Flappy Bird
  
 Esse jogo foi feito como projeto final da disciplina de Técnicas de Programação 1 da UnB. O objetivo do projeto foi aprender o paradigma de programação orientada a objetos e também trabalhar um pouco com interface gráfica.
 
